@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kristina-noriega-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
